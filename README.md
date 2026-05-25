@@ -38,3 +38,5 @@ Follow these steps to run the application locally:
  5. **Ensure Model Exists**: Verify that the pre-trained heartdiseaseprediction.model pickle file is present in the root directory.
  6. **Run the application**: Execute python app.py.
  7. **Access the app**: Open a web browser and navigate to the local Flask server (typically http://127.0.0.1:5000/).
+
+    
